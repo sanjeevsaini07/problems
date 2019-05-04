@@ -84,10 +84,10 @@ break;
 
 }
 /*for last line*/
-if(n%2==0 && n>4)
+/*if(n%2==0 && n>4)
 {
     a[n/2][n/2]=y;
-}
+}*/
 
 for(int i=0;i<n;i++)
 {
